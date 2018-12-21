@@ -12,5 +12,8 @@
 
 <!-- Vendor -->
   <project name="anudeepreddy/vendor_xiaomi_vince" path="vendor/xiaomi" remote="github" revision="master" />
-
+  
+<!-- Additional packages-->
+  <!-- device  settings-->
+  	<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
